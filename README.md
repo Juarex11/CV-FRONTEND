@@ -57,7 +57,7 @@ Permite a los usuarios navegar entre diferentes categorías, ver productos, apli
 
 1. **Clona el repositorio:**
    ```bash
-   git clone https://github.com/AdrianMamani/Burger-frontend-.git
+   git clone https://github.com/Juarex11/CV-FRONTEND.git
    ```
 
 2. **Entra al proyecto:**
